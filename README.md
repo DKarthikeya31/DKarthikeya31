@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Dasari Karthikeya 👋</h1>
 <h3 align="center">Backend Engineer | Java & Spring Boot | System Design & Distributed Systems</h3>
 
 <p align="center">
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/DKarthikeya31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="/path/to/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
@@ -78,16 +78,16 @@ I'm currently looking for **full-time backend / distributed systems roles** wher
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/yourhandle/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourhandle&repo=project-one&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/DKarthikeya31/project-one">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DKarthikeya31&repo=project-one&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/yourhandle/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourhandle&repo=project-two&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/DKarthikeya31/project-two">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DKarthikeya31&repo=project-two&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
-**[Project One Name](https://github.com/yourhandle/project-one)** — one-line outcome-focused description (e.g. "Distributed URL shortener handling 10K+ req/sec with Redis caching and horizontal scaling").
-**[Project Two Name](https://github.com/yourhandle/project-two)** — same format. Lead with the problem solved and the scale/impact, not just the tech list.
+**[Project One Name](https://github.com/DKarthikeya31/project-one)** — one-line outcome-focused description (e.g. "Distributed URL shortener handling 10K+ req/sec with Redis caching and horizontal scaling").
+**[Project Two Name](https://github.com/DKarthikeya31/project-two)** — same format. Lead with the problem solved and the scale/impact, not just the tech list.
 
 > Tip for recruiter-facing profiles: pin the 2-4 projects that best demonstrate real-world engineering judgment (scale, correctness, trade-offs) — not solutions to practice problems.
 
@@ -96,8 +96,8 @@ I'm currently looking for **full-time backend / distributed systems roles** wher
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DKarthikeya31&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKarthikeya31&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -109,5 +109,5 @@ I'm currently looking for **full-time backend / distributed systems roles** wher
 - Conversations about system design, distributed systems, and performance engineering
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourhandle&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DKarthikeya31&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
 </p>
