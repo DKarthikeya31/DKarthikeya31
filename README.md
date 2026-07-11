@@ -87,14 +87,6 @@ I'm currently looking for **full-time backend / distributed systems roles** wher
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DKarthikeya31&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKarthikeya31&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
 
 ### 🤝 Open To
 
