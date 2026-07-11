@@ -77,19 +77,13 @@ I'm currently looking for **full-time backend / distributed systems roles** wher
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/DKarthikeya31/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DKarthikeya31&repo=project-one&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/DKarthikeya31/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DKarthikeya31&repo=project-two&theme=github_dark&hide_border=true" />
-  </a>
-</p>
+| Project | What it does | Stack |
+|---|---|---|
+| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description — e.g. "Distributed URL shortener handling 10K+ req/sec with Redis caching and horizontal scaling" | Java, Spring Boot, Redis |
+| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description — lead with the problem solved and the scale/impact, not just the tech list | Java, PostgreSQL, Docker |
+| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description | Spring Boot, Kafka, AWS |
 
-**[Project One Name](https://github.com/DKarthikeya31/project-one)** — one-line outcome-focused description (e.g. "Distributed URL shortener handling 10K+ req/sec with Redis caching and horizontal scaling").
-**[Project Two Name](https://github.com/DKarthikeya31/project-two)** — same format. Lead with the problem solved and the scale/impact, not just the tech list.
-
-> Tip for recruiter-facing profiles: pin the 2-4 projects that best demonstrate real-world engineering judgment (scale, correctness, trade-offs) — not solutions to practice problems.
+> Tip for recruiter-facing profiles: list the 2-4 projects that best demonstrate real-world engineering judgment (scale, correctness, trade-offs) — not solutions to practice problems.
 
 ---
 
