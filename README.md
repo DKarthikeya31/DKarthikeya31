@@ -1,99 +1,146 @@
-<h1 align="center">Hi, I'm Dasari Karthikeya 👋</h1>
-<h3 align="center">Backend Engineer | Java & Spring Boot | System Design & Distributed Systems</h3>
+<h1 align="center">Hi 👋, I'm Dasari Karthikeya</h1>
+<h3 align="center">Software Developer | Competitive Programmer | Always Learning, Always Building</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+services+with+Java+%26+Spring+Boot;Designing+for+reliability%2C+latency%2C+and+scale;Strong+foundations+in+CS+fundamentals+%26+system+design;Open+to+full-time+backend+%2F+distributed+systems+roles" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/DKarthikeya31"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="/path/to/resume.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=DKarthikeya31&label=Profile%20Views&color=0e75b6&style=flat" alt="DKarthikeya31" />
 </p>
 
 ---
 
-### 👋 About Me
+### 📔 I'm currently learning
+Full Stack Development · AI/ML · Quantitative Finance · Competitive Programming
 
-I'm a backend engineer who builds scalable services using **Java** and **Spring Boot**, with a strong grounding in **system design, distributed computing, databases, networking, and cloud-native infrastructure**.
-
-I care about the fundamentals as much as the frameworks — algorithms, operating systems, computer architecture, concurrency, and database internals — because understanding *why* systems behave the way they do is what lets me design ones that hold up under real load.
-
-I'm currently looking for **full-time backend / distributed systems roles** where I can work on problems involving scale, correctness, and reliability. Open to referrals — happy to share more context over a quick chat.
+### 🛣️ How to reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DKarthikeya31/)
 
 ---
 
-### 💼 What I Bring
+### 🏅 Achievements
 
-- **Backend development**: designing and shipping production-grade REST/gRPC services in Java & Spring Boot — auth, data modeling, API design, testing, deployment.
-- **System design**: comfortable reasoning about scalability, consistency trade-offs, caching, load balancing, and failure handling in distributed systems.
-- **Database depth**: not just writing queries — understanding indexing, transactions, replication, and query planning well enough to debug production issues.
-- **Performance mindset**: profiling, benchmarking, and optimizing for latency and throughput rather than treating performance as an afterthought.
-- **Strong CS fundamentals**: data structures, algorithms, OS concepts, and networking, which translate directly into better system design decisions and faster debugging.
-- **Fast learner, low supervision needed**: able to pick up new stacks (Python, C++, Rust) and unfamiliar codebases quickly.
+- 🎯 Upcoming Summer Intern at **D. E. Shaw**
+- 🚀 Rank Opener @ **NIT Raipur, CSE'27**
+- 🏦 **JPMorgan Chase & Co** — Code For Good '25
+- 🏆 5× Hackathon Winner
+- ♟️ National Level Chess Player (State Rank 18)
+- 🛒 Top 130 — **Amazon HackOn'25**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧑‍🎓 Education
+
+**Bachelor of Technology – Computer Science & Engineering**
+National Institute of Technology Raipur | 2027
+CPI: **9.5**
+
+---
+
+### 🌐 Socials & Coding Platforms
+
+<p align="left">
+  <a href="https://leetcode.com/u/DKarthikeya31/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Knight%20♞%20(2017)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://codeforces.com/profile/DKarthikeya31" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-Expert%20(1705)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/cant_breath" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-4★%20(1852)-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/DKarthikeya31?tab=activity" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-5★%20(2003)-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
 
 **Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-</p>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Backend & Frameworks**
+**Web Frameworks & Libraries**
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 **Databases**
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Infrastructure & Tools**
+**ORMs**
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-</p>
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+
+**ML/AI & Data Science**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Monitoring & Observability**
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**Design & Other Tools**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description — e.g. "Distributed URL shortener handling 10K+ req/sec with Redis caching and horizontal scaling" | Java, Spring Boot, Redis |
-| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description — lead with the problem solved and the scale/impact, not just the tech list | Java, PostgreSQL, Docker |
-| **[Project Name](https://github.com/DKarthikeya31/repo-link)** | One-line outcome-focused description | Spring Boot, Kafka, AWS |
-
-> Tip for recruiter-facing profiles: list the 2-4 projects that best demonstrate real-world engineering judgment (scale, correctness, trade-offs) — not solutions to practice problems.
-
----
-
-
-### 🤝 Open To
-
-- Full-time **Backend Engineer / SDE** roles (Java, Spring Boot)
-- Referrals and introductions — feel free to reach out on LinkedIn
-- Conversations about system design, distributed systems, and performance engineering
+### 🔥 My Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DKarthikeya31&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DKarthikeya31&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKarthikeya31&layout=compact&theme=radical" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DKarthikeya31&theme=radical" alt="streak stats" />
+</p>
+
+### ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote" />
+</p>
+
+### 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=DKarthikeya31&limit=1&theme=radical&combine_all_yearly_contributions=true" alt="top contributed repo" />
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/DKarthikeya31">DKarthikeya31</a> — feel free to connect!</p>
