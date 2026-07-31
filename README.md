@@ -9,4 +9,4 @@
 - API's: RESTFUL api, GraphQL, grpc
 - DataBase: MySQL, PostgreSQL, Mongodb, Redis
 - CLOUD: AWS
-- Currently Learning/ Exploring: Go, Rust
+- Currently Learning / Exploring: Go, Rust
