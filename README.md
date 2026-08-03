@@ -10,4 +10,4 @@
 - DataBase: MySQL, PostgreSQL, Mongodb, Redis
 - CLOUD: AWS
 - Currently Learning / Exploring: Go, Rust, RAG
-- Tools: Docker, K8S
+- Tools: Docker, K8S, Terraform
