@@ -1,5 +1,5 @@
 
-# Hi, I'm [DKarthikeya] 👋
+# Hi, I'm [Dasari Karthikeya] 👋
 
 ["Backend developer who likes building fast, reliable systems."]
 
