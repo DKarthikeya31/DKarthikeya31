@@ -1,7 +1,7 @@
 
-# Hi, I'm [Dasari Karthikeya] 👋
+# Hi, I'm [Dasari Karthikeya]
 
-["Backend developer who likes building fast, reliable systems."]
+["Backend developer & DevOps Engineer"]
 
 ## 🔧 Skills
 - Languages: Go, Java, Python, C++, Rust
