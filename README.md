@@ -1,5 +1,5 @@
 
-# Hi, I'm [Dasari Karthikeya]
+# Hi, I'm Dasari Karthikeya
 
 ["Backend developer & DevOps Engineer"]
 
