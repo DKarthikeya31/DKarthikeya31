@@ -1,7 +1,7 @@
 
 # Hi, I'm Dasari Karthikeya
 
-["Backend developer & DevOps Engineer"]
+["low latency engineer]
 
 ## 🔧 Skills
 - Languages: Go, Java, Python, C++, Rust
