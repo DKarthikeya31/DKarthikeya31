@@ -5,6 +5,7 @@
 
 ## 🔧 Skills
 - Languages: Go, Java, Python, C++, Rust
+- System Scaling Tools : Redis, K8s
 - Frameworks: Gin, SpringBoot, Flask
 - API's: RESTFUL api, GraphQL, grpc
 - DataBase: MySQL, PostgreSQL, Mongodb, Redis
