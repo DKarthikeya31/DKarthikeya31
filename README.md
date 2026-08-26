@@ -3,7 +3,7 @@
 
 ["low latency engineer]
 
-## 🔧 Skills
+## 🔧 Skill
 - Languages: Go, Java, Python, C++, Rust
 - System Scaling Tools : Redis, K8s
 - Frameworks: Gin, SpringBoot, Flask
