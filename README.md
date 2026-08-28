@@ -1,8 +1,6 @@
 
 # Hi, I'm DKarthikeya
 
-["low latency engineer]
-
 ## 🔧 Skill
 - Languages: Go, Java, Python, C++, Rust
 - System Scaling Tools : Redis, K8s
