@@ -1,8 +1,8 @@
 
 # Hi, I'm DKarthikeya
 
-## 🔧 Skill
-- Languages: Go, Java, Python, C++, Rust
+## 🔧 Skills
+- Languages: Go, Java, Python, C++, Rust, Scala
 - System Scaling Tools : Redis, K8s
 - Frameworks: Gin, SpringBoot, Flask
 - API's: RESTFUL api, GraphQL, grpc
