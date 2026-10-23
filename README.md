@@ -1,5 +1,5 @@
 
-# I'm DKarthikeya
+# I'm Dsr Karthikeya
 
 ## 🔧 Skills
 - Languages: GoLang, Java, Python, C++, Rust, Scala
