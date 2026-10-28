@@ -2,7 +2,7 @@
 # Dsr Karthikeya
 
 ## 🔧 Skills
-- Languages: GoLang, Java, Python, C++, Rust, Ruby
+- Languages: GoLang, Java, Python, C++, Rust, Scala
 - System Scaling Tools : Redis, K8s
 - Frameworks: Gin, SpringBoot, Flask
 - API's: RESTFUL api, GraphQL, grpc
