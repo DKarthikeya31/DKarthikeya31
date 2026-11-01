@@ -1,5 +1,5 @@
 
-# Dasari Karthikeya
+# Dasari Karthik
 
 ## 🔧 Skills
 - Languages: GoLang, Java, Python, Cpp, Rust, Scala
