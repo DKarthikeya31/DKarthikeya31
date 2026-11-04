@@ -11,3 +11,4 @@
 - Currently Learning
 - Tools: Docker, K8S, Terraform
 - Exploring: Go, Rust, RAG
+- Ai Agents 
