@@ -4,7 +4,7 @@
 ## 🔧 Skills
 - Languages: GoLang, Java, Python, Cpp, Rust, Scala
 - System Scaling Tools : Redis, K8s
-- Frameworks: Gin, SpringBoot, Flask
+- Frameworks: Gin, SpringBoot, Flask, DJango
 - API's: RESTFUL api, GraphQL, grpc
 - DataBase: MySQL, PostgreSQL, Mongodb, Redis
 - CLOUD: AWS
