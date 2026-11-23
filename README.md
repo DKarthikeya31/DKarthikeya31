@@ -1,7 +1,7 @@
 
 # Dsr Karthikeya
 
-## 🔧 Skills
+## 🔧 Tech Skills
 - Languages: C, Java, Python, Cpp, Rust
 - System Scaling Tools : Redis, K8s
 - Frameworks: Gin, SpringBoot, Flask, DJango
